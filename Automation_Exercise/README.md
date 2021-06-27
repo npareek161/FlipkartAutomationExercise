@@ -1,4 +1,4 @@
-#FlipkartAutomationExercise 
+## FlipkartAutomationExercise 
 
 This detail everything required for rapid importing project, adding build path dependencies, setting up drivers, running UI tests & checking reports.
 
